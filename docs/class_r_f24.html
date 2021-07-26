@@ -588,11 +588,10 @@ For example: <div class="fragment"><div class="line"><span class="keywordtype">v
 <div class="line">  radio.available(&amp;pipe);                  <span class="comment">// pipe data should now be reliable</span></div>
 <div class="line">}</div>
 <div class="line"> </div>
-<div class="line"><span class="keywordtype">void</span> <a class="code" href="main_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f">setup</a>() {</div>
+<div class="line"><span class="keywordtype">void</span> setup() {</div>
 <div class="line">  pinMode(IRQ_PIN, INPUT);</div>
 <div class="line">  attachInterrupt(digitalPinToInterrupt(IRQ_PIN), isrCallbackFunction, FALLING);</div>
 <div class="line">}</div>
-<div class="ttc" id="amain_8cpp_html_a7dfd9b79bc5a37d7df40207afbc5431f"><div class="ttname"><a href="main_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f">setup</a></div><div class="ttdeci">void setup(void)</div></div>
 </div><!-- fragment --></dd></dl>
 <dl class="section return"><dt>Returns</dt><dd><ul>
 <li><code>true</code> if there is a payload available in the top (first out) level RX FIFO.</li>
@@ -629,7 +628,7 @@ For example: <div class="fragment"><div class="line"><span class="keywordtype">v
 <div class="line">  radio.available();                       <span class="comment">// returned data should now be reliable</span></div>
 <div class="line">}</div>
 <div class="line"> </div>
-<div class="line"><span class="keywordtype">void</span> <a class="code" href="main_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f">setup</a>() {</div>
+<div class="line"><span class="keywordtype">void</span> setup() {</div>
 <div class="line">  pinMode(IRQ_PIN, INPUT);</div>
 <div class="line">  attachInterrupt(digitalPinToInterrupt(IRQ_PIN), isrCallbackFunction, FALLING);</div>
 <div class="line">}</div>
@@ -769,7 +768,7 @@ For the Arduino Due board, the <a href="https://www.arduino.cc/en/Reference/DueE
       </table>
 </div><div class="memdoc">
 <p>Begin operation of the chip</p>
-<p>Call this in <a class="el" href="main_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f">setup()</a>, before calling any other methods. </p><div class="fragment"><div class="line"><span class="keywordflow">if</span> (!radio.begin()) {</div>
+<p>Call this in setup(), before calling any other methods. </p><div class="fragment"><div class="line"><span class="keywordflow">if</span> (!radio.begin()) {</div>
 <div class="line">  Serial.println(F(<span class="stringliteral">&quot;radio hardware not responding!&quot;</span>));</div>
 <div class="line">  <span class="keywordflow">while</span> (1) {} <span class="comment">// hold program in infinite loop to prevent subsequent errors</span></div>
 <div class="line">}</div>
@@ -1829,7 +1828,7 @@ Pipe 0 is also used by the writing pipe so should typically be avoided as a read
 </div><div class="memdoc">
 <p>Print a giant block of debugging information to stdout</p>
 <dl class="section warning"><dt>Warning</dt><dd>Does nothing if stdout is not defined. See fdevopen in stdio.h The <a class="el" href="printf_8h.html">printf.h</a> file is included with the library for Arduino. <div class="fragment"><div class="line"><span class="preprocessor">#include &lt;<a class="code" href="printf_8h.html">printf.h</a>&gt;</span></div>
-<div class="line"><a class="code" href="main_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f">setup</a>(){</div>
+<div class="line">setup(){</div>
 <div class="line"> Serial.begin(115200);</div>
 <div class="line"> <a class="code" href="printf_8h.html#afc0d9ca32710dff550ebe56ab6b39d23">printf_begin</a>();</div>
 <div class="line"> ...</div>
@@ -1857,7 +1856,7 @@ Pipe 0 is also used by the writing pipe so should typically be avoided as a read
 </div><div class="memdoc">
 <p>Print a giant block of debugging information to stdout. This function differs from <a class="el" href="class_r_f24.html#adc95213ed4c8569a90eb33122e16cea6">printDetails()</a> because it makes the information more understandable without having to look up the datasheet or convert hexadecimal to binary. Only use this function if your application can spare extra bytes of memory.</p>
 <dl class="section warning"><dt>Warning</dt><dd>Does nothing if stdout is not defined. See fdevopen in stdio.h The <a class="el" href="printf_8h.html">printf.h</a> file is included with the library for Arduino. <div class="fragment"><div class="line"><span class="preprocessor">#include &lt;<a class="code" href="printf_8h.html">printf.h</a>&gt;</span></div>
-<div class="line"><a class="code" href="main_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f">setup</a>(){</div>
+<div class="line">setup(){</div>
 <div class="line"> Serial.begin(115200);</div>
 <div class="line"> <a class="code" href="printf_8h.html#afc0d9ca32710dff550ebe56ab6b39d23">printf_begin</a>();</div>
 <div class="line"> ...</div>
@@ -3877,7 +3876,7 @@ To use this function in the python wrapper: <div class="fragment"><div class="li
     <ul>
         <li class="navelem"><a class="el" href="class_r_f24.html">RF24</a></li>
         <li class="footer">
-            Generated on Mon Jul 26 2021 09:47:28 for nRF24 Soldered Arduino Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Mon Jul 26 2021 09:52:08 for nRF24 Soldered Arduino Library by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

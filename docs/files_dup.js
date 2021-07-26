@@ -4,7 +4,6 @@ var files_dup =
     [ "easyC.h", "easy_c_8h.html", [
       [ "EasyC", "class_easy_c.html", "class_easy_c" ]
     ] ],
-    [ "main.cpp", "main_8cpp.html", "main_8cpp" ],
     [ "nRF24-SOLDERED.cpp", "n_r_f24-_s_o_l_d_e_r_e_d_8cpp.html", null ],
     [ "nRF24-SOLDERED.h", "n_r_f24-_s_o_l_d_e_r_e_d_8h.html", [
       [ "nRF24", "classn_r_f24.html", "classn_r_f24" ]

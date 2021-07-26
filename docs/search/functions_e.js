@@ -1,12 +1,20 @@
 var searchData=
 [
-  ['read_245',['read',['../class_r_f24.html#a8e2eacacfba96426c192066f04054c5b',1,'RF24']]],
-  ['read_5fpayload_246',['read_payload',['../class_r_f24.html#a126054a1f385c80faa046bd4c362f6fb',1,'RF24']]],
-  ['read_5fregister_247',['read_register',['../class_r_f24.html#a99958992f6b92af61c8132557cd847c0',1,'RF24::read_register(uint8_t reg, uint8_t *buf, uint8_t len)'],['../class_r_f24.html#a9a77a59447ca017aa178eb831e52a9e8',1,'RF24::read_register(uint8_t reg)']]],
-  ['readdata_248',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readregister_249',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]],
-  ['redirect_5fstdout_5fto_250',['REDIRECT_STDOUT_TO',['../printf_8h.html#a6f26d2c7d56f403ce0f999d44d43f785',1,'printf.h']]],
-  ['reusetx_251',['reUseTX',['../class_r_f24.html#aeaf7fa54d3ab2a85ce215b4bf6ae933b',1,'RF24']]],
-  ['rf24_252',['RF24',['../class_r_f24.html#a123231bd955698373d221a84ad40055a',1,'RF24::RF24(uint16_t _cepin, uint16_t _cspin, uint32_t _spi_speed=RF24_SPI_SPEED)'],['../class_r_f24.html#aa08204a6c77e9d03bd1075cf0759fccd',1,'RF24::RF24(uint32_t _spi_speed=RF24_SPI_SPEED)']]],
-  ['rxfifofull_253',['rxFifoFull',['../class_r_f24.html#ad22e44fe1a68747872fcb304a407fd30',1,'RF24']]]
+  ['sendaddress_238',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
+  ['senddata_239',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
+  ['serial_5fputc_240',['serial_putc',['../printf_8h.html#a58e3e87273e5d1e75345f95adf597758',1,'printf.h']]],
+  ['setaddresswidth_241',['setAddressWidth',['../class_r_f24.html#ad5aea7f9a3bd9c7d357fb296ce751f21',1,'RF24']]],
+  ['setautoack_242',['setAutoAck',['../class_r_f24.html#aec71746d59da978bcbb975167886a2cc',1,'RF24::setAutoAck(bool enable)'],['../class_r_f24.html#a60dba9e558f3620ab489af68ea3dea9c',1,'RF24::setAutoAck(uint8_t pipe, bool enable)']]],
+  ['setchannel_243',['setChannel',['../class_r_f24.html#a5e6e5a5f6c85d2638381cab2c0f3702e',1,'RF24']]],
+  ['setcrclength_244',['setCRCLength',['../class_r_f24.html#a89f626fc4a58dd997153bcc0f8198b9e',1,'RF24']]],
+  ['setdatarate_245',['setDataRate',['../class_r_f24.html#aeb9920e7a95699748b003c4a839b0814',1,'RF24']]],
+  ['setpalevel_246',['setPALevel',['../class_r_f24.html#ab6a711a9cc14fb459a4a1698b8665d82',1,'RF24']]],
+  ['setpayloadsize_247',['setPayloadSize',['../class_r_f24.html#a343e5d23477181011dea030fafb1954f',1,'RF24']]],
+  ['setretries_248',['setRetries',['../class_r_f24.html#a4c6d3959c8320e64568395f4ef507aef',1,'RF24']]],
+  ['startconstcarrier_249',['startConstCarrier',['../class_r_f24.html#ac43ad43c34337ec0de189105bab2213b',1,'RF24']]],
+  ['startfastwrite_250',['startFastWrite',['../class_r_f24.html#acd19843064cb70ec23507412e519e4ef',1,'RF24']]],
+  ['startlistening_251',['startListening',['../class_r_f24.html#a30a2733a3889bdc331fe2d2f4f0f7b39',1,'RF24']]],
+  ['startwrite_252',['startWrite',['../class_r_f24.html#adbf25b53d28d1fcc385fd9738a531b75',1,'RF24']]],
+  ['stopconstcarrier_253',['stopConstCarrier',['../class_r_f24.html#a38fa92d612b7b9b8a739a68ed7d88330',1,'RF24']]],
+  ['stoplistening_254',['stopListening',['../class_r_f24.html#a6f144d73fc447c8ac2d1a4166210fd88',1,'RF24']]]
 ];

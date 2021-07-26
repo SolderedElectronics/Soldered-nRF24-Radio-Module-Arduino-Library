@@ -1,5 +1,12 @@
 var searchData=
 [
-  ['openreadingpipe_234',['openReadingPipe',['../class_r_f24.html#a9edc910ccc1ffcff56814b08faca5535',1,'RF24::openReadingPipe(uint8_t number, const uint8_t *address)'],['../class_r_f24.html#aa7e8523f86f9f8f20c274e0c89a5fd45',1,'RF24::openReadingPipe(uint8_t number, uint64_t address)']]],
-  ['openwritingpipe_235',['openWritingPipe',['../class_r_f24.html#af2e409e62d49a23e372a70b904ae30e1',1,'RF24::openWritingPipe(const uint8_t *address)'],['../class_r_f24.html#a50c8e68ee840e1860a31dbdc83afbd77',1,'RF24::openWritingPipe(uint64_t address)']]]
+  ['powerdown_220',['powerDown',['../class_r_f24.html#aa0a51923a09ba4f3478aba9be0f8a6a1',1,'RF24']]],
+  ['powerup_221',['powerUp',['../class_r_f24.html#a5cdaf47aa0edd6dca1b9a8bb7972a1a3',1,'RF24']]],
+  ['print_5faddress_5fregister_222',['print_address_register',['../class_r_f24.html#a6528f1886d440428ad4930a35d030c43',1,'RF24']]],
+  ['print_5fbyte_5fregister_223',['print_byte_register',['../class_r_f24.html#a9e8b81bc997b05931ea6f9e241d106e6',1,'RF24']]],
+  ['print_5fobserve_5ftx_224',['print_observe_tx',['../class_r_f24.html#aa69594e3d8db3128edbf7e5bf4de03f8',1,'RF24']]],
+  ['print_5fstatus_225',['print_status',['../class_r_f24.html#a701efcbbe01ad137773e52aac1c44c17',1,'RF24']]],
+  ['printdetails_226',['printDetails',['../class_r_f24.html#adc95213ed4c8569a90eb33122e16cea6',1,'RF24']]],
+  ['printf_5fbegin_227',['printf_begin',['../printf_8h.html#afc0d9ca32710dff550ebe56ab6b39d23',1,'printf.h']]],
+  ['printprettydetails_228',['printPrettyDetails',['../class_r_f24.html#a32205b4854f595b0d32dce9c95e93ba2',1,'RF24']]]
 ];

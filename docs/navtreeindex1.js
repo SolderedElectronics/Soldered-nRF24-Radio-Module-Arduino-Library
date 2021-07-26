@@ -1,19 +1,10 @@
 var NAVTREEINDEX1 =
 {
-"main_8cpp.html#aa025a12d45f60c7d0eae249e61f0c7f9":[5,0,2,2],
-"main_8cpp.html#ab760d9b7b37faf96741c15a0359f7c6f":[5,0,2,3],
-"main_8cpp.html#ad4f9a972b5afe7f6ed1a75826c5111e6":[5,0,2,0],
-"md_src_libs__r_f24_examples_old_backups_recipes_readme.html":[1],
-"modules.html":[3],
-"n_r_f24-_s_o_l_d_e_r_e_d_8cpp.html":[5,0,3],
-"n_r_f24-_s_o_l_d_e_r_e_d_8h.html":[5,0,4],
-"n_r_f24-_s_o_l_d_e_r_e_d_8h_source.html":[5,0,4],
-"n_r_f24_l01_8h.html":[5,0,5],
-"n_r_f24_l01_8h_source.html":[5,0,5],
+"n_r_f24_l01_8h_source.html":[4,0,4],
 "pages.html":[],
-"printf_8h.html":[5,0,6],
-"printf_8h.html#a58e3e87273e5d1e75345f95adf597758":[5,0,6,2],
-"printf_8h.html#a6f26d2c7d56f403ce0f999d44d43f785":[5,0,6,1],
-"printf_8h.html#afc0d9ca32710dff550ebe56ab6b39d23":[5,0,6,0],
-"printf_8h_source.html":[5,0,6]
+"printf_8h.html":[4,0,5],
+"printf_8h.html#a58e3e87273e5d1e75345f95adf597758":[4,0,5,2],
+"printf_8h.html#a6f26d2c7d56f403ce0f999d44d43f785":[4,0,5,1],
+"printf_8h.html#afc0d9ca32710dff550ebe56ab6b39d23":[4,0,5,0],
+"printf_8h_source.html":[4,0,5]
 };

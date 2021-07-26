@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['nrf24_233',['nRF24',['../classn_r_f24.html#a9e6df57c4bc78088e1935d46e17aa7fe',1,'nRF24::nRF24(uint16_t _cepin, uint16_t _cspin, uint32_t _spi_speed=RF24_SPI_SPEED)'],['../classn_r_f24.html#a6f580a9083383624478d02a9e8a5d74a',1,'nRF24::nRF24(uint32_t _spi_speed=RF24_SPI_SPEED)']]]
+  ['openreadingpipe_218',['openReadingPipe',['../class_r_f24.html#a9edc910ccc1ffcff56814b08faca5535',1,'RF24::openReadingPipe(uint8_t number, const uint8_t *address)'],['../class_r_f24.html#aa7e8523f86f9f8f20c274e0c89a5fd45',1,'RF24::openReadingPipe(uint8_t number, uint64_t address)']]],
+  ['openwritingpipe_219',['openWritingPipe',['../class_r_f24.html#af2e409e62d49a23e372a70b904ae30e1',1,'RF24::openWritingPipe(const uint8_t *address)'],['../class_r_f24.html#a50c8e68ee840e1860a31dbdc83afbd77',1,'RF24::openWritingPipe(uint64_t address)']]]
 ];

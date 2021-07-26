@@ -1,9 +1,5 @@
 var searchData=
 [
-  ['native_63',['native',['../class_easy_c.html#abb766b60f26778dbc64e8792fd754729',1,'EasyC']]],
-  ['nrf24_64',['nRF24',['../classn_r_f24.html',1,'nRF24'],['../classn_r_f24.html#a9e6df57c4bc78088e1935d46e17aa7fe',1,'nRF24::nRF24(uint16_t _cepin, uint16_t _cspin, uint32_t _spi_speed=RF24_SPI_SPEED)'],['../classn_r_f24.html#a6f580a9083383624478d02a9e8a5d74a',1,'nRF24::nRF24(uint32_t _spi_speed=RF24_SPI_SPEED)']]],
-  ['nrf24_2dsoldered_2ecpp_65',['nRF24-SOLDERED.cpp',['../n_r_f24-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['nrf24_2dsoldered_2eh_66',['nRF24-SOLDERED.h',['../n_r_f24-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
-  ['nrf24l01_20arduino_20library_67',['nRF24L01 Arduino library',['../index.html',1,'']]],
-  ['nrf24l01_2eh_68',['nRF24L01.h',['../n_r_f24_l01_8h.html',1,'']]]
+  ['openreadingpipe_63',['openReadingPipe',['../class_r_f24.html#a9edc910ccc1ffcff56814b08faca5535',1,'RF24::openReadingPipe(uint8_t number, const uint8_t *address)'],['../class_r_f24.html#aa7e8523f86f9f8f20c274e0c89a5fd45',1,'RF24::openReadingPipe(uint8_t number, uint64_t address)']]],
+  ['openwritingpipe_64',['openWritingPipe',['../class_r_f24.html#af2e409e62d49a23e372a70b904ae30e1',1,'RF24::openWritingPipe(const uint8_t *address)'],['../class_r_f24.html#a50c8e68ee840e1860a31dbdc83afbd77',1,'RF24::openWritingPipe(uint64_t address)']]]
 ];

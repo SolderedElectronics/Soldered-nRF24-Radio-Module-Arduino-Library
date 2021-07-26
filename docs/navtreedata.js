@@ -26,7 +26,6 @@ var NAVTREE =
 [
   [ "nRF24 Soldered Arduino Library", "index.html", [
     [ "nRF24L01 Arduino library", "index.html", null ],
-    [ "readme", "md_src_libs__r_f24_examples_old_backups_recipes_readme.html", null ],
     [ "Deprecated List", "deprecated.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Classes", "annotated.html", [
@@ -57,7 +56,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_r_f24_8cpp.html",
-"main_8cpp.html#aa025a12d45f60c7d0eae249e61f0c7f9"
+"n_r_f24_l01_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

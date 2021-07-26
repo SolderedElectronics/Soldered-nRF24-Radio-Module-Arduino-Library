@@ -199,7 +199,7 @@ void setRole()
 
         // Set the address on pipe 0 to the RX node.
         radio.stopListening(); // put radio in TX mode
-        radio.openWritingPipe(address[role]);
+        radio.openWritingPipe(address[(int)role]);
 
         // According to the datasheet, the auto-retry features's delay value should
         // be "skewed" to allow the RX node to receive 1 transmission at a time.

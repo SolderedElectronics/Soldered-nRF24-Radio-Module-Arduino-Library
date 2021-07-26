@@ -14,8 +14,7 @@
  * This example was written to be used on 2 devices acting as "nodes".
  * Use the Serial Monitor to change each node's behavior.
  */
-#include "nRF24-SOLDERED"
-#include "printf.h"
+#include "nRF24-SOLDERED.h"
 
 // We will be using the nRF24L01's IRQ pin for this example
 #define IRQ_PIN 2                     // this needs to be a digital input capable pin

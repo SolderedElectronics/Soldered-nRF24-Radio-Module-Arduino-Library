@@ -14,8 +14,7 @@
  * only 1 device acting as the RX node (that's a maximum of 7 devices).
  * Use the Serial Monitor to change each node's behavior.
  */
-#include "nRF24-SOLDERED"
-#include "printf.h"
+#include "nRF24-SOLDERED.h"
 
 // instantiate an object for the nRF24L01 transceiver
 nRF24 radio(7, 8); // using pin 7 for the CE pin, and pin 8 for the CSN pin

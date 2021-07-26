@@ -1,5 +1,10 @@
 var searchData=
 [
-  ['generic_2deasyc_2dsoldered_2ecpp_8',['Generic-easyC-SOLDERED.cpp',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['generic_2deasyc_2dsoldered_2eh_9',['Generic-easyC-SOLDERED.h',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
+  ['datarate_27',['datarate',['../group___datarate.html',1,'']]],
+  ['defaultaddress_28',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]],
+  ['deprecated_20list_29',['Deprecated List',['../deprecated.html',1,'']]],
+  ['disableackpayload_30',['disableAckPayload',['../class_r_f24.html#a00e17eb6b56b915fd6df30a58784661f',1,'RF24']]],
+  ['disablecrc_31',['disableCRC',['../class_r_f24.html#a5eacd9ecfbc19864801d714c292cf8be',1,'RF24']]],
+  ['disabledynamicpayloads_32',['disableDynamicPayloads',['../class_r_f24.html#a486c4c47a6973614ae595ae96f221165',1,'RF24']]],
+  ['dynamic_5fpayloads_5fenabled_33',['dynamic_payloads_enabled',['../class_r_f24.html#a407a65859ccce346445041b4d2fb51e8',1,'RF24']]]
 ];

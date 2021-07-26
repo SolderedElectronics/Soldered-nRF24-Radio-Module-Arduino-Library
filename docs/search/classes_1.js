@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sensor_21',['Sensor',['../class_sensor.html',1,'']]]
+  ['nrf24_180',['nRF24',['../classn_r_f24.html',1,'']]]
 ];

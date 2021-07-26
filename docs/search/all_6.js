@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['native_11',['native',['../class_easy_c.html#abb766b60f26778dbc64e8792fd754729',1,'EasyC']]],
-  ['naziv_20proizvoda_20arduino_20library_12',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['failuredetected_43',['failureDetected',['../class_r_f24.html#a2e40fe66d1231a333aa2534e8491f828',1,'RF24']]],
+  ['flush_5frx_44',['flush_rx',['../class_r_f24.html#a575c061519e7820e1850ad380c617d95',1,'RF24']]],
+  ['flush_5ftx_45',['flush_tx',['../class_r_f24.html#adb7915b1d2661a82137573344f659e81',1,'RF24']]]
 ];

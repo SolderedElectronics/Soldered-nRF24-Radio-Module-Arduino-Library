@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sendaddress_32',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_33',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_34',['Sensor',['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor']]]
+  ['disableackpayload_207',['disableAckPayload',['../class_r_f24.html#a00e17eb6b56b915fd6df30a58784661f',1,'RF24']]],
+  ['disablecrc_208',['disableCRC',['../class_r_f24.html#a5eacd9ecfbc19864801d714c292cf8be',1,'RF24']]],
+  ['disabledynamicpayloads_209',['disableDynamicPayloads',['../class_r_f24.html#a486c4c47a6973614ae595ae96f221165',1,'RF24']]]
 ];

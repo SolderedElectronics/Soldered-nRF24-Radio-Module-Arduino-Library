@@ -1,0 +1,28 @@
+var examples =
+[
+    [ "examples/GettingStarted/GettingStarted.ino", "examples_2_getting_started_2_getting_started_8ino-example.html", null ],
+    [ "examples/AcknowledgementPayloads/AcknowledgementPayloads.ino", "examples_2_acknowledgement_payloads_2_acknowledgement_payloads_8ino-example.html", null ],
+    [ "examples/ManualAcknowledgements/ManualAcknowledgements.ino", "examples_2_manual_acknowledgements_2_manual_acknowledgements_8ino-example.html", null ],
+    [ "examples/StreamingData/StreamingData.ino", "examples_2_streaming_data_2_streaming_data_8ino-example.html", null ],
+    [ "examples/MulticeiverDemo/MulticeiverDemo.ino", "examples_2_multiceiver_demo_2_multiceiver_demo_8ino-example.html", null ],
+    [ "examples/InterruptConfigure/InterruptConfigure.ino", "examples_2_interrupt_configure_2_interrupt_configure_8ino-example.html", null ],
+    [ "examples/old_backups/GettingStarted_HandlingFailures/GettingStarted_HandlingFailures.ino", "examples_2old_backups_2_getting_started__handling_failures_2_getting_started__handling_failures_8ino-example.html", null ],
+    [ "examples/old_backups/TransferTimeouts/TransferTimeouts.ino", "examples_2old_backups_2_transfer_timeouts_2_transfer_timeouts_8ino-example.html", null ],
+    [ "examples/old_backups/pingpair_irq/pingpair_irq.ino", "examples_2old_backups_2pingpair_irq_2pingpair_irq_8ino-example.html", null ],
+    [ "examples/old_backups/pingpair_sleepy/pingpair_sleepy.ino", "examples_2old_backups_2pingpair_sleepy_2pingpair_sleepy_8ino-example.html", null ],
+    [ "examples/rf24_ATTiny/rf24ping85/rf24ping85.ino", "examples_2rf24__a_t_tiny_2rf24ping85_2rf24ping85_8ino-example.html", null ],
+    [ "examples/rf24_ATTiny/timingSearch3pin/timingSearch3pin.ino", "examples_2rf24__a_t_tiny_2timing_search3pin_2timing_search3pin_8ino-example.html", null ],
+    [ "examples/old_backups/pingpair_dyn/pingpair_dyn.ino", "examples_2old_backups_2pingpair_dyn_2pingpair_dyn_8ino-example.html", null ],
+    [ "examples_linux/getting_started.py", "examples_linux_2getting_started_8py-example.html", null ],
+    [ "examples_linux/acknowledgement_payloads.py", "examples_linux_2acknowledgement_payloads_8py-example.html", null ],
+    [ "examples_linux/manual_acknowledgements.py", "examples_linux_2manual_acknowledgements_8py-example.html", null ],
+    [ "examples_linux/streaming_data.py", "examples_linux_2streaming_data_8py-example.html", null ],
+    [ "examples_linux/interrupt_configure.py", "examples_linux_2interrupt_configure_8py-example.html", null ],
+    [ "examples_linux/multiceiver_demo.py", "examples_linux_2multiceiver_demo_8py-example.html", null ],
+    [ "examples/old_backups/scanner/scanner.ino", "examples_2old_backups_2scanner_2scanner_8ino-example.html", null ],
+    [ "examples_linux/gettingstarted.cpp", "examples_linux_2gettingstarted_8cpp-example.html", null ],
+    [ "examples_linux/acknowledgementPayloads.cpp", "examples_linux_2acknowledgement_payloads_8cpp-example.html", null ],
+    [ "examples_linux/manualAcknowledgements.cpp", "examples_linux_2manual_acknowledgements_8cpp-example.html", null ],
+    [ "examples_linux/streamingData.cpp", "examples_linux_2streaming_data_8cpp-example.html", null ],
+    [ "examples_linux/multiceiverDemo.cpp", "examples_linux_2multiceiver_demo_8cpp-example.html", null ]
+];

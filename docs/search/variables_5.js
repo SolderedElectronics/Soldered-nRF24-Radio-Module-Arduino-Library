@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['err_281',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['gpio_257',['gpio',['../class_r_f24.html#abbd3d52f3b8596d1afa52399ceb47be9',1,'RF24']]]
 ];

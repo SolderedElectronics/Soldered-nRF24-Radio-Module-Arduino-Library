@@ -66,7 +66,7 @@ void setup()
     // initialize the transceiver on the SPI bus
     if (!radio.begin())
     {
-        Serial.println(F("radio hardware is not responding!!"));
+        Serial.println("radio hardware is not responding!!");
         while (1)
         {
         } // hold in infinite loop

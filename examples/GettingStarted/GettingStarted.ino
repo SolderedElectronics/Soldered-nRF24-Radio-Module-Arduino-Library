@@ -1,16 +1,22 @@
-/*
- * See documentation at https://nRF24.github.io/RF24 for connections to MCU boards
- * See License information at root directory of this library
- * Author: Brendan Doherty (2bndy5)
- * Modified by: Soldered
- */
-
 /**
- * A simple example of sending data from 1 nRF24L01 transceiver to another.
+ **************************************************
  *
- * This example was written to be used on 2 devices acting as "nodes".
- * Use the Serial Monitor to change each node's behavior.
- */
+ * @file        GettingStarted.ino
+ * @brief       A simple example of sending data from 1 nRF24L01 transceiver to another.
+ *
+ *              This example was written to be used on 2 devices acting as "nodes".
+ *              Use the Serial Monitor to change each node's behavior.
+ * 
+ *              See documentation at https://nRF24.github.io/RF24 for connections to MCU boards
+ *              See License information at root directory of this library
+ *
+ *
+ *              product: www.solde.red/333059
+ *
+ * @authors     Brendan Doherty
+ *              Modified by: Soldered
+ ***************************************************/
+
 #include "nRF24-SOLDERED.h"
 
 // instantiate an object for the nRF24L01 transceiver

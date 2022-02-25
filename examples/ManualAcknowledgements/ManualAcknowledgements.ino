@@ -1,22 +1,28 @@
-/*
- * See documentation at https://nRF24.github.io/RF24 for connections to MCU boards
- * See License information at root directory of this library
- * Author: Brendan Doherty (2bndy5)
- * Modified by: Soldered
- */
-
 /**
- * A simple example of sending data from 1 nRF24L01 transceiver to another
- * with manually transmitted (non-automatic) Acknowledgement (ACK) payloads.
- * This example still uses ACK packets, but they have no payloads. Instead the
- * acknowledging response is sent with `write()`. This tactic allows for more
- * updated acknowledgement payload data, where actual ACK payloads' data are
- * outdated by 1 transmission because they have to loaded before receiving a
- * transmission.
+ **************************************************
  *
- * This example was written to be used on 2 devices acting as "nodes".
- * Use the Serial Monitor to change each node's behavior.
- */
+ * @file        ManualAcknowledgement.ino
+ * @brief       A simple example of sending data from 1 nRF24L01 transceiver to another
+ *              with manually transmitted (non-automatic) Acknowledgement (ACK) payloads.
+ *              This example still uses ACK packets, but they have no payloads. Instead the
+ *              acknowledging response is sent with `write()`. This tactic allows for more
+ *              updated acknowledgement payload data, where actual ACK payloads' data are
+ *              outdated by 1 transmission because they have to loaded before receiving a
+ *              transmission.
+ *
+ *              This example was written to be used on 2 devices acting as "nodes".
+ *              Use the Serial Monitor to change each node's behavior.
+ * 
+ *              See documentation at https://nRF24.github.io/RF24 for connections to MCU boards
+ *              See License information at root directory of this library
+ *
+ *
+ *              product: www.solde.red/333059
+ *
+ * @authors     Brendan Doherty
+ *              Modified by: Soldered
+ ***************************************************/
+
 #include "nRF24-SOLDERED.h"
 
 // instantiate an object for the nRF24L01 transceiver

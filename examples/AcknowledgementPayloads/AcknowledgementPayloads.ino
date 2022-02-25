@@ -162,7 +162,7 @@ void loop()
             }
             else
             {
-                Serial.println(F(" Recieved: an empty ACK packet")); // empty ACK packet received
+                Serial.println(" Recieved: an empty ACK packet"); // empty ACK packet received
             }
         }
         else
@@ -183,14 +183,14 @@ void loop()
             uint8_t bytes = radio.getDynamicPayloadSize(); // get the size of the payload
             PayloadStruct received;
             radio.read(&received, sizeof(received)); // get incoming payload
-            Serial.print(F("Received "));
+            Serial.print("Received ");
             Serial.print(bytes); // print the size of the payload
-            Serial.print(F(" bytes on pipe "));
+            Serial.print(" bytes on pipe ");
             Serial.print(pipe); // print the pipe number
-            Serial.print(F(": "));
+            Serial.print(": ");
             Serial.print(received.message); // print incoming message
             Serial.print(received.counter); // print incoming counter
-            Serial.print(F(" Sent: "));
+            Serial.print(" Sent: ");
             Serial.print(payload.message);   // print outgoing message
             Serial.println(payload.counter); // print outgoing counter
 
@@ -211,7 +211,7 @@ void loop()
             // Become the TX node
 
             role = true;
-            Serial.println(F("*** CHANGING TO TRANSMIT ROLE -- PRESS 'R' TO SWITCH BACK"));
+            Serial.println("* CHANGE TO TRANSMIT ROLE -- PRESS 'R' TO SWITCH BACK");
 
             memcpy(payload.message, "Hello ", 6); // change payload message
             radio.stopListening();                // this also discards any unused ACK payloads
@@ -221,7 +221,7 @@ void loop()
             // Become the RX node
 
             role = false;
-            Serial.println(F("*** CHANGING TO RECEIVE ROLE -- PRESS 'T' TO SWITCH BACK"));
+            Serial.println("* CHANGE TO RECEIVE ROLE -- PRESS 'T' TO SWITCH BACK");
             memcpy(payload.message, "World ", 6); // change payload message
 
             // load the payload for the first received transmission on pipe 0

@@ -6,7 +6,7 @@
 
 | ![NRF24L01 adapter for Dasduino boards](https://github.com/SolderedElectronics/NRF24L01-adapter-for-Dasduino-boards-hardware-design/blob/main/OUTPUTS/V1.1.1/333059.jpg) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                   [NRF24L01 adapter for Dasduino boards](https://www.solde.red/333059)                                                   |
+|                                                   [NRF24L01 adapter for Dasduino boards](https://solde.red/333059)                                                   |
 
 Connecting the NRF24L01 can be tricky - you have to pay attention to the layout of the pins, adjust them to match those from the library and add a capacitor. This board solves all that, and it already comes with soldered headers, so just plug this board into your Dasduino and that's it!
 

@@ -209,10 +209,9 @@ var NAVTREEINDEX0 =
 "group___p_a_level.html#gga1e4cd0bea93e6b43422855fb0120aaceab0bfc94c4095e9495b2e49530b623d0d":[2,0,0,3],
 "group___p_a_level.html#gga1e4cd0bea93e6b43422855fb0120aaceaf00c265e162bfbef00cd5366b2796533":[2,0,0,2],
 "hierarchy.html":[3,2],
-"index.html":[0],
 "index.html":[],
+"index.html":[0],
 "index.html#autotoc_md8":[0,0],
-"modules.html":[2],
 "n_r_f24-_s_o_l_d_e_r_e_d_8cpp.html":[4,0,0,1],
 "n_r_f24-_s_o_l_d_e_r_e_d_8h.html":[4,0,0,2],
 "n_r_f24-_s_o_l_d_e_r_e_d_8h_source.html":[4,0,0,2],
@@ -223,5 +222,6 @@ var NAVTREEINDEX0 =
 "printf_8h.html#a58e3e87273e5d1e75345f95adf597758":[4,0,0,0,0,1,2],
 "printf_8h.html#a6f26d2c7d56f403ce0f999d44d43f785":[4,0,0,0,0,1,1],
 "printf_8h.html#afc0d9ca32710dff550ebe56ab6b39d23":[4,0,0,0,0,1,0],
-"printf_8h_source.html":[4,0,0,0,0,1]
+"printf_8h_source.html":[4,0,0,0,0,1],
+"topics.html":[2]
 };

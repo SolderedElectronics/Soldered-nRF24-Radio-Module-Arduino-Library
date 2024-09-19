@@ -6,9 +6,11 @@ var searchData=
   ['child_5fpipe_3',['child_pipe',['../_r_f24_8cpp.html#a9a5b7ef3dcd5ba656e19a1036ef212f5',1,'RF24.cpp']]],
   ['child_5fpipe_5fenable_4',['child_pipe_enable',['../_r_f24_8cpp.html#aa25724c48cf9fd6df84cfe7705d6e633',1,'RF24.cpp']]],
   ['closereadingpipe_5',['closeReadingPipe',['../class_r_f24.html#a9944d93994a80037e3586f340f5e0107',1,'RF24']]],
-  ['config_5freg_6',['config_reg',['../class_r_f24.html#a4374445829b5aba3e9a4d18001cc1ed6',1,'RF24']]],
-  ['crc_20length_7',['CRC length',['../group___c_r_c_length.html',1,'']]],
-  ['csdelay_8',['csDelay',['../class_r_f24.html#ad08121bf844f08dbe53f51576b7c4066',1,'RF24']]],
-  ['csn_9',['csn',['../class_r_f24.html#a5aea326b1b1af665cf7c49c2da8d32e6',1,'RF24']]],
-  ['csn_5fpin_10',['csn_pin',['../class_r_f24.html#a98603f849a02517f59c6c9973180de2d',1,'RF24']]]
+  ['compatibility_6',['Board compatibility',['../index.html#autotoc_md4',1,'']]],
+  ['config_5freg_7',['config_reg',['../class_r_f24.html#a4374445829b5aba3e9a4d18001cc1ed6',1,'RF24']]],
+  ['contents_8',['Repository Contents',['../index.html#autotoc_md1',1,'']]],
+  ['crc_20length_9',['CRC length',['../group___c_r_c_length.html',1,'']]],
+  ['csdelay_10',['csDelay',['../class_r_f24.html#ad08121bf844f08dbe53f51576b7c4066',1,'RF24']]],
+  ['csn_11',['csn',['../class_r_f24.html#a5aea326b1b1af665cf7c49c2da8d32e6',1,'RF24']]],
+  ['csn_5fpin_12',['csn_pin',['../class_r_f24.html#a98603f849a02517f59c6c9973180de2d',1,'RF24']]]
 ];

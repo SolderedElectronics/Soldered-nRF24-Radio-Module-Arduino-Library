@@ -27,7 +27,7 @@ var NAVTREE =
   [ "nRF24 Soldered Arduino Library", "index.html", [
     [ "NRF24L01 adapter for Dasduino boards Arduino library", "index.html", "index" ],
     [ "Deprecated List", "deprecated.html", null ],
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
